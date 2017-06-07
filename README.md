@@ -1,6 +1,6 @@
 Requirements
 ============
-you need `libjpeg-dev` and `zlib1g-dev` packages to be installed on your computer, before installing. You should insert the token you got from Telegram Botfather in etehadiran_bot.py in line 20.
+you need `libjpeg-dev` and `zlib1g-dev` packages to be installed on your computer, before installing. You should insert the token you got from Telegram Botfather in `etehadiran_bot.py` in line 20.
 
 Install
 =======
